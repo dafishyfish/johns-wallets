@@ -1,0 +1,121 @@
+LITECOIN WALLET.DAT FILES HINTS LIST
+
+- 326 LTC : Password with 20 digits.
+
+- 372 LTC : There is a space in the password, 3 special characters, about 13 characters long, English user.
+
+- 397 LTC : nothing known about password!
+
+- 410 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 423 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 444 LTC : Nothing is known about the password.
+
+- 445 LTC : Password length 14 characters, EN layout.
+
+- 460 LTC : Password starts with letter T, length is unknown.
+
+- 504 LTC : 	US user, I recomend a-z,A-Z,0-9
+		Passlen: 8-12
+
+- 525 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 577 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 586 LTC :	CN user. this password was read from his browser: n329bnepuntozz12345 but is not for this wallet. 
+		I recomend a-z,0-9
+		lengh 10-16
+
+- 589 LTC : 	US user. this password was read from his browser: BaSketball11@!# but is not for this wallet. 
+		I recomend a-z,Symbol,0-9
+		lengh 12-16
+
+- 536 LTC : 	Passlen: 8
+		Prompt: USA user, numeric + special
+!#$%&?@987654321
+
+- 600 LTC : the password consists of digits, symbols, and Latin letters.
+
+
+- 612 LTC : 	CN user. this password was read from his browser: 189513898e4152989da241d6be60d5ef but is not for this wallet. 
+		I recomend a-z,0-9
+		lengh 20-30
+
+- 630 LTC :	CN user. this password was read from his browser: RandManasBan but is not for this wallet. 
+		I recomend a-z,A-Z
+		lengh 8-12
+
+- 641 LTC : the password consists of digits, symbols, and Latin letters.
+
+
+- 678 LTC :	US user. this password was read from his browser: ubwzt587 but is not for this wallet. 
+		I recomend a-z,0-9
+		lengh 6-10
+
+- 702 LTC :	CN user. this password was read from his browser: meta707sos but is not for this wallet. 
+		I recomend a-z,0-9
+		lengh 8-12
+
+- 727 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 753 LTC : the password consists of digits, symbols, and Latin letters.
+
+
+- 785 LTC :	CN user. this password was read from his browser: mymoney#@@@101 but is not for this wallet. 
+		I recomend a-z,symbol,0-9
+		lengh 10-16
+
+- 825 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 997 LTC :	CN user. this password was read from his browser: penguins1824 but is not for this wallet. 
+		I recomend a-z,A-Z,0-9
+		lengh 8-12
+
+- 1041 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 1100 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 1117 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 1145 LTC : 	US user. this password was read from his browser: 5Lzgo600xGoa but is not for this wallet. 
+		I recomend a-z,A-Z,0-9
+		lengh 8-12
+
+- 1250 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 1584 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 1800 LTC :	Eng user, Start at Special sym. next Latinic. and END of special sym.
+
+- 1930 LTC : 	RU user. this password was read from his browser: БэкТУфьючарIII but is not for this wallet. 
+		I recomend RU worldlist
+		lengh 8-12
+
+- 1978 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 2415 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 3001 LTC :	CN user. this password was read from his browser: number1exporting but is not for this wallet. 
+		I recomend a-z,0-9
+		lengh 8-16
+
+- 4100 LTC :	Passlen: 9+
+		Prompt: USA user, start at '!@#', end of '$%^', other unknown
+
+- 4484 LTC : 	Passlen: 7-10
+		Prompt: China user, start at upperkeys, end of 2-4 num + "@"
+
+- 4516 LTC : the password consists of digits, symbols, and Latin letters.
+
+- 6263 LTC : the password consists of digits, symbols, and Latin letters.
+
+
+- 6493 LTC :	Passlen: 8-12
+		Prompt: USA user, ALL in CAPS + special sym
+
+- 25382 LTC :	owner was a miner man the password is 14 Characters , 
+		he couldn't get back into his wallet because he made a mistake when he changed the password 
+		by adding a Caps letter on one of the letters
+
+- 40417 LTC : Nothing is known about the password, 8 characters passed by brute.
